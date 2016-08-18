@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: miragemiko (command line)
+Class-Path: .
+Main-Class: com.exec.one.Main
